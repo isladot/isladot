@@ -8,4 +8,4 @@ front-end developer who in his spare time works on his army of bots :3.
 - ⚡ Fun fact: i need to cry pls let me know some cool drama animz.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islaDevs&hide=prs,issues&count_private=true&show_icons=true&theme=material-palenight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isladot&hide=prs,issues&count_private=true&show_icons=true&theme=material-palenight)
