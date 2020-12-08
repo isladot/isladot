@@ -12,8 +12,8 @@ front-end developer who in his spare time works on his army of bots :3.
 - 🌱 I’m currently learning TypeScript.  
 - 💬 Ask me about anything u need, I'll do my best. 
 - 📫 How to reach me: contact@lucabiagetti.dev
-- 🌸 I fking love animes. [AniList here :3.](https://anilist.co/user/isladot/)
-- 👾 *of course, bots bots & bots.*
+- 🌸 I love animes. [AniList here :3.](https://anilist.co/user/isladot/)
+- 👾 *of course, bots.*
 
 <h4> Languages & Frameworks: </h4>
 
