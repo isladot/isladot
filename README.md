@@ -9,7 +9,7 @@ front-end developer who in his spare time works on his army of bots :3.
 <h4> About me: </h4>
 
 - 🔭 I’m currently working on a Flutter app project.  
-- 🌱 I’m currently learning TypeScript.  
+- 📚 I’m currently learning TypeScript.  
 - 💬 Ask me about anything u need, I'll do my best. 
 - 📫 How to reach me: contact@lucabiagetti.dev
 - 🌸 I love animes. [AniList here :3.](https://anilist.co/user/isladot/)
