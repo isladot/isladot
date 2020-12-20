@@ -4,7 +4,7 @@ front-end developer who in his spare time works on his army of bots :3.
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=isladot&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight">
 <img align="right" width="50%" src="https://media.giphy.com/media/iBJEtG6LWk9gxrmhgQ/giphy.gif">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isladot&layout=compact&theme=material-palenight&hide=css,html&text_color=ffffff">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isladot&layout=compact&theme=material-palenight&exclude_repo=Homeworks-coding&text_color=ffffff&custom_title=Luca Biagetti's Top Languages">
 
 <h4> About me: </h4>
 
