@@ -1,6 +1,6 @@
 <h2> Hya, I'm Luca! <img src="https://media.tenor.com/images/1963c1bf2abc4950a12284148a81eb61/tenor.gif" height="40px"></h2>
 
-front-end developer who in his spare time works on his army of bots :3.
+A front-end developer who in his spare time works on his army of bots :3.
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=isladot&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight">
 <img align="right" width="50%" src="https://media.giphy.com/media/iBJEtG6LWk9gxrmhgQ/giphy.gif">
@@ -8,16 +8,15 @@ front-end developer who in his spare time works on his army of bots :3.
 
 <h4> About me: </h4>
 
-- 🔭 I’m currently working on a Flutter app project.  
-- 📚 I’m currently learning TypeScript.  
+- ⌨️ I’m currently working on a Flutter project.  
+- 📚 I’m currently learning TypeScript & Electron.  
 - 💬 Ask me about anything u need, I'll do my best. 
 - 📫 How to reach me: contact@lucabiagetti.dev
 - 🌸 I love animes. [AniList here :3.](https://anilist.co/user/isladot/)
-- 👾 *of course, bots.*
 
 <h4> Languages & Frameworks: </h4>
 
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-Vue-2c3e50?style=flat-square&logo=vue.js&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3777ac?style=flat-square&logo=python&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/-C++-31429b?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img alt="Dart" src="https://img.shields.io/badge/-Dart-04599c?style=flat-square&logo=dart&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-47c5fb?style=flat-square&logo=flutter&logoColor=white" />  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white" /> 
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Vue" src="https://img.shields.io/badge/-Vue-2c3e50?style=flat-square&logo=vue.js&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3777ac?style=flat-square&logo=python&logoColor=white" /> <img alt="C++" src="https://img.shields.io/badge/-C++-31429b?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img alt="Dart" src="https://img.shields.io/badge/-Dart-04599c?style=flat-square&logo=dart&logoColor=white" /> <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-47c5fb?style=flat-square&logo=flutter&logoColor=white" />  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=css3&logoColor=white" /> 
 
 <h4> Tools: </h4>
 
