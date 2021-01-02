@@ -12,7 +12,7 @@ A front-end developer who in his spare time works on his army of bots :3.
 - 📚 I’m currently learning TypeScript & Electron.  
 - 💬 Ask me about anything u need, I'll do my best. 
 - 📫 How to reach me: contact@lucabiagetti.dev
-- 🌸 I love animes. [AniList here :3.](https://anilist.co/user/isladot/)
+- 🌸 I love animes. <a href="https://anilist.co/user/isladot/" target="_blank">AniList here :3.</a>
 
 <h4> Languages & Frameworks: </h4>
 
