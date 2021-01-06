@@ -9,7 +9,7 @@ A front-end developer who in his spare time works on his army of bots :3.
 <h4> About me: </h4>
 
 - ⌨️ I’m currently working on a Flutter project.  
-- 📚 I’m currently learning Electron JS framework.  
+- 📚 I’m currently learning Typescript & React+Electron.  
 - 📫 How to reach me: contact@lucabiagetti.dev
 - 🌸 I love animes. <a href="https://anilist.co/user/isladot/" target="_blank">AniList here :3.</a>
 
