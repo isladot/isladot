@@ -7,6 +7,6 @@
 <h4> About me: </h4>
 
 - ⌨️ I'm currently working on a Flutter mobile application.
-- ☕ I'm currently chilling on a super secret Electron-based desktop application.
+- ☕ I'm currently developing on a super secret Electron-based desktop application.
 - 📫 How to reach me: contact@lucabiagetti.dev
 - 🌸 Fun fact: I love animes.
