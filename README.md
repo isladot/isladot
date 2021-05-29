@@ -28,6 +28,68 @@
 - ☕ In my spare time, I like to work on *lots* of personal projects.
 - 💬 Ask me anything, I'll try my best.
 
+<!-- Tech section. -->
+<h2>💻 Tech</h2>
+
+> Languages, frameworks and tools I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/javascript.svg" width="48" height="48" alt="JavaScript" />
+      <br>
+      JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/typescript.svg" width="48" height="48" alt="TypeScript" />
+      <br>
+      TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/python.svg" width="48" height="48" alt="Python" />
+      <br>
+      Python
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/dart.svg" width="48" height="48" alt="Dart" />
+      <br>
+      Dart
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/cplusplus.svg" width="48" height="48" alt="C++" />
+      <br>
+      C++
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="./assets/nodejs.svg" width="48" height="48" alt="NodeJS" />
+      <br>
+      NodeJS
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/flutter.svg" width="48" height="48" alt="Flutter" />
+      <br>
+      Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/react.svg" width="48" height="48" alt="React" />
+      <br>
+      React
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/vue.svg" width="48" height="48" alt="Vue" />
+      <br>
+      Vue
+    </td>
+    <td align="center" width="96">
+      <img src="./assets/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      <br>
+      MongoDB
+    </td>
+  </tr>
+</table>
+
 <!-- Streak section. -->
 <h2>👾 Streak</h2>
 <div align="center">
