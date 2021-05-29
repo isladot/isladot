@@ -90,14 +90,17 @@
   </tr>
 </table>
 
-<!-- Streak section. -->
-<h2>👾 Streak</h2>
-<div align="center">
-  <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=isladot&theme=material-palenight&hide_border=true" />
-</div>
-
 <!-- Stats section. -->
 <h2>📊 Stats</h2>
+<details>
+  <summary><b>👾 Streak</b></summary>
+  <br />
+  <div align="center">
+    <img height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=isladot&theme=material-palenight&hide_border=true" />
+  </div>
+  <br />
+</details>
+
 <details>
   <summary><b>☄️ Profile</b></summary>
   <br />  
