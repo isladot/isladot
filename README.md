@@ -28,6 +28,15 @@
 - ☕ In my spare time, I like to work on *lots* of personal projects.
 - 💬 Ask me anything, I'll try my best.
 
+<!-- Spotify section. -->
+<h2>🎵 Spotify</h2>
+
+> Music stalking section.
+
+<a href="https://open.spotify.com/user/iyp449gpvmgrzw82i8xptf7up">
+  <img src="https://spotify-readme-np.herokuapp.com/api/spotify/now" />
+</a>
+
 <!-- Tech section. -->
 <h2>💻 Tech</h2>
 
