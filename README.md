@@ -34,7 +34,7 @@
 > Music stalking section.
 
 <a href="https://open.spotify.com/user/iyp449gpvmgrzw82i8xptf7up">
-  <img src="https://spotify-readme-np.herokuapp.com/api/spotify/now" />
+  <img src="https://spotify-readme-widget.herokuapp.com/api/spotify/now" />
 </a>
 
 <!-- Tech section. -->
