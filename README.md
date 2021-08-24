@@ -20,13 +20,11 @@
 <!-- About section. -->
 <h2>🌸 Me</h2>
 
-> Some info about me and my daily routine.
+> Me and my daily routine.
 
 - ⌨️ I'm currently working as a Front-end Developer at Starting Finance.
-- 📚 I'm currently attending IT Highschool Grade 12.
+- 📚 I'm currently attending IT Highschool Grade 13 (yeah, in Italy we do five years of Highschool).
 - 🌱 I’m currently learning **Q#**.
-- ☕ In my spare time, I like to work on *lots* of personal projects.
-- 💬 Ask me anything, I'll try my best.
 
 <!-- Spotify section. -->
 <h2>🎵 Spotify</h2>
