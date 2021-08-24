@@ -20,16 +20,27 @@
 <!-- About section. -->
 <h2>🌸 Me</h2>
 
-> Me and my daily routine.
+> Me, myself and my daily routine.
 
 - ⌨️ I'm currently working as a Front-end Developer at Starting Finance.
-- 📚 I'm currently attending IT Highschool Grade 13 (yeah, in Italy we do five years of Highschool).
+- 📚 I'm currently attending IT Highschool Grade 13 (yeah, in Italy we do five years).
 - 🌱 I’m currently learning **Q#**.
+- 🏷 Pronouns: he/him.
+- ✨ Fun fact: Drama is the best anime genre.
+
+<!-- Socials section. -->
+<h2>🌐 Socials</h2>
+
+> How to contact me.
+
+- LinkedIn: [click me!](https://www.linkedin.com/in/luca-biagetti/)
+- Telegram: [also me!](https://t.me/isladot)
+- Discord: isla#8212
 
 <!-- Spotify section. -->
 <h2>🎵 Spotify</h2>
 
-> Music stalking section.
+> Music I like to listen to.
 
 <a href="https://open.spotify.com/user/iyp449gpvmgrzw82i8xptf7up">
   <img src="https://spotify-readme-widget.herokuapp.com/api/spotify/now" />
