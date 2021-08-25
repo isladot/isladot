@@ -1,6 +1,6 @@
 <!-- Welcome section. -->
 <div align="center">
-  <h2> Hya, welcome to Luca Biagetti's profile! <img src="https://media.tenor.com/images/1963c1bf2abc4950a12284148a81eb61/tenor.gif" height="40px"></h2>
+  <h2> Hya, welcome to isladot's profile! <img src="https://media.tenor.com/images/1963c1bf2abc4950a12284148a81eb61/tenor.gif" height="40px"></h2>
   <a href="https://github.com/isladot">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=front-end+developer.;professional+botmancer.;anime+addict+-.-"/>
   </a>
@@ -10,15 +10,12 @@
 <!-- Banners section. -->
 <div>  
   <a href="https://github.com/isladot">
-    <img src="https://komarev.com/ghpvc/?username=isladot" alt="profile views" />
-  </a>
-  <a href="https://github.com/isladot">
-    <img src="https://img.shields.io/github/followers/isladot?label=Followers" alt="followers" />
+    <img src="https://komarev.com/ghpvc/?username=isladot&label=Visitors" alt="profile views" />
   </a>
 </div>
 
 <!-- About section. -->
-<h2>🌸 Me</h2>
+<h2>🌸 About</h2>
 
 > Me, myself and my daily routine.
 
@@ -47,66 +44,40 @@
 </a>
 
 <!-- Tech section. -->
-<h2>💻 Tech</h2>
+<h2>🔨 Languages and Tools</h2>
 
-> Languages, frameworks and tools I like to work with.
+> Stuff I like to work with.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="./assets/javascript.svg" width="48" height="48" alt="JavaScript" />
-      <br>
-      JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/typescript.svg" width="48" height="48" alt="TypeScript" />
-      <br>
-      TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/python.svg" width="48" height="48" alt="Python" />
-      <br>
-      Python
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/dart.svg" width="48" height="48" alt="Dart" />
-      <br>
-      Dart
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/cplusplus.svg" width="48" height="48" alt="C++" />
-      <br>
-      C++
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="./assets/nodejs.svg" width="48" height="48" alt="NodeJS" />
-      <br>
-      NodeJS
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/flutter.svg" width="48" height="48" alt="Flutter" />
-      <br>
-      Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/react.svg" width="48" height="48" alt="React" />
-      <br>
-      React
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/vue.svg" width="48" height="48" alt="Vue" />
-      <br>
-      Vue
-    </td>
-    <td align="center" width="96">
-      <img src="./assets/mongodb.svg" width="48" height="48" alt="MongoDB" />
-      <br>
-      MongoDB
-    </td>
-  </tr>
-</table>
+<h3> Coding languages </h3>
+
+<img src="./assets/icons/c++/c++.svg" width="42" alt="C++" />
+<img src="./assets/icons/csharp/csharp.svg" width="42" alt="C#" />
+<img src="./assets/icons/css/css.svg" width="42" alt="CSS" />
+<img src="./assets/icons/dart/dart.svg" width="42" alt="Dart" />
+<img src="./assets/icons/html/html.svg" width="42" alt="HTML" />
+<img src="./assets/icons/javascript/javascript.svg" width="42" alt="JavaScript" />
+<img src="./assets/icons/python/python.svg" width="42" alt="Python" />
+<img src="./assets/icons/typescript/typescript.svg" width="42" alt="TypeScript" />
+
+<h3> Frameworks and libraries </h3>
+
+<img src="./assets/icons/bootstrap/bootstrap.svg" width="42" alt="Bootstrap" />
+<img src="./assets/icons/bulma/bulma.svg" width="42" alt="Bulma" />
+<img src="./assets/icons/electron/electron.svg" width="42" style='margin: 0px 5px' alt="Electron" />
+<img src="./assets/icons/express/express.svg" width="42" style='margin: 0px 5px' alt="Express" />
+<img src="./assets/icons/flutter/flutter.svg" width="42" alt="Flutter" />
+<img src="./assets/icons/node/node.svg" width="42" alt="NodeJS" />
+<img src="./assets/icons/react/react.svg" width="42" alt="React" />
+<img src="./assets/icons/redux/redux.svg" width="42" alt="Redux" />
+<img src="./assets/icons/svelte/svelte.svg" width="42" alt="Svelte" />
+<img src="./assets/icons/tailwindcss/tailwindcss.svg" width="42" alt="TailwindCSS" />
+<img src="./assets/icons/vue/vue.svg" width="42" alt="Vue" />
+
+<h3> OS, softwares and tools </h3>
+
+<img src="./assets/icons/windows/windows.svg" width="42" style='margin-right: 5px' alt="Windows" />
+<img src="./assets/icons/yarn/yarn.svg" width="42" style='margin-right: 5px' alt="Yarn" />
+
 
 <!-- Stats section. -->
 <h2>📊 Stats</h2>
