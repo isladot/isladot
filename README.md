@@ -50,34 +50,39 @@
 
 <h3> Coding languages </h3>
 
-<img src="./assets/icons/c++/c++.svg" width="42" alt="C++" />
-<img src="./assets/icons/csharp/csharp.svg" width="42" alt="C#" />
-<img src="./assets/icons/css/css.svg" width="42" alt="CSS" />
-<img src="./assets/icons/dart/dart.svg" width="42" alt="Dart" />
-<img src="./assets/icons/html/html.svg" width="42" alt="HTML" />
-<img src="./assets/icons/javascript/javascript.svg" width="42" alt="JavaScript" />
-<img src="./assets/icons/python/python.svg" width="42" alt="Python" />
-<img src="./assets/icons/typescript/typescript.svg" width="42" alt="TypeScript" />
-
+<div style='display: flex'>
+  <img src="./assets/icons/c++/c++.svg" width="42" alt="C++" />
+  <img src="./assets/icons/csharp/csharp.svg" width="42" alt="C#" />
+  <img src="./assets/icons/css/css.svg" width="42" alt="CSS" />
+  <img src="./assets/icons/dart/dart.svg" width="42" alt="Dart" />
+  <img src="./assets/icons/html/html.svg" width="42" alt="HTML" />
+  <img src="./assets/icons/javascript/javascript.svg" width="42" alt="JavaScript" />
+  <img src="./assets/icons/python/python.svg" width="42" alt="Python" />
+  <img src="./assets/icons/typescript/typescript.svg" width="42" alt="TypeScript" />
+</div>
+  
 <h3> Frameworks and libraries </h3>
 
-<img src="./assets/icons/bootstrap/bootstrap.svg" width="42" alt="Bootstrap" />
-<img src="./assets/icons/bulma/bulma.svg" width="42" alt="Bulma" />
-<img src="./assets/icons/electron/electron.svg" width="42" style='margin: 0px 5px' alt="Electron" />
-<img src="./assets/icons/express/express.svg" width="42" style='margin: 0px 5px' alt="Express" />
-<img src="./assets/icons/flutter/flutter.svg" width="42" alt="Flutter" />
-<img src="./assets/icons/node/node.svg" width="42" alt="NodeJS" />
-<img src="./assets/icons/react/react.svg" width="42" alt="React" />
-<img src="./assets/icons/redux/redux.svg" width="42" alt="Redux" />
-<img src="./assets/icons/svelte/svelte.svg" width="42" alt="Svelte" />
-<img src="./assets/icons/tailwindcss/tailwindcss.svg" width="42" alt="TailwindCSS" />
-<img src="./assets/icons/vue/vue.svg" width="42" alt="Vue" />
-
+<div style='display: flex'>
+  <img src="./assets/icons/bootstrap/bootstrap.svg" width="42" alt="Bootstrap" />
+  <img src="./assets/icons/bulma/bulma.svg" width="42" alt="Bulma" />
+  <img src="./assets/icons/electron/electron.svg" width="42" style='margin: 0px 5px' alt="Electron" />
+  <img src="./assets/icons/express/express.svg" width="42" style='margin: 0px 5px' alt="Express" />
+  <img src="./assets/icons/flutter/flutter.svg" width="42" alt="Flutter" />
+  <img src="./assets/icons/node/node.svg" width="42" alt="NodeJS" />
+  <img src="./assets/icons/react/react.svg" width="42" alt="React" />
+  <img src="./assets/icons/redux/redux.svg" width="42" alt="Redux" />
+  <img src="./assets/icons/svelte/svelte.svg" width="42" alt="Svelte" />
+  <img src="./assets/icons/tailwindcss/tailwindcss.svg" width="42" alt="TailwindCSS" />
+  <img src="./assets/icons/vue/vue.svg" width="42" alt="Vue" />
+</div>
+  
 <h3> OS, softwares and tools </h3>
 
-<img src="./assets/icons/windows/windows.svg" width="42" style='margin-right: 5px' alt="Windows" />
-<img src="./assets/icons/yarn/yarn.svg" width="42" style='margin-right: 5px' alt="Yarn" />
-
+<div style='display: flex'>
+  <img src="./assets/icons/windows/windows.svg" width="42" style='margin-right: 5px' alt="Windows" />
+  <img src="./assets/icons/yarn/yarn.svg" width="42" style='margin-right: 5px' alt="Yarn" />
+</div>
 
 <!-- Stats section. -->
 <h2>📊 Stats</h2>
