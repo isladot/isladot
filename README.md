@@ -48,7 +48,7 @@
 
 > Stuff I like to work with.
 
-<h3> Coding languages </h3>
+<h3> Languages </h3>
 
 <div style='display: flex'>
   <img src="./assets/icons/c++/c++.svg" width="42" alt="C++" />
@@ -56,6 +56,7 @@
   <img src="./assets/icons/css/css.svg" width="42" alt="CSS" />
   <img src="./assets/icons/dart/dart.svg" width="42" alt="Dart" />
   <img src="./assets/icons/html/html.svg" width="42" alt="HTML" />
+  <img src="./assets/icons/markdown/markdown.svg" width="42" alt="Markdown" />
   <img src="./assets/icons/javascript/javascript.svg" width="42" alt="JavaScript" />
   <img src="./assets/icons/python/python.svg" width="42" alt="Python" />
   <img src="./assets/icons/typescript/typescript.svg" width="42" alt="TypeScript" />
@@ -69,6 +70,7 @@
   <img src="./assets/icons/electron/electron.svg" width="42" alt="Electron" /> &nbsp;
   <img src="./assets/icons/express/express.svg" width="42" alt="Express" />
   <img src="./assets/icons/flutter/flutter.svg" width="42" alt="Flutter" />
+  <img src="./assets/icons/nextjs/nextjs.svg" width="42" alt="NextJS" />
   <img src="./assets/icons/node/node.svg" width="42" alt="NodeJS" />
   <img src="./assets/icons/react/react.svg" width="42" alt="React" />
   <img src="./assets/icons/redux/redux.svg" width="42" alt="Redux" />
@@ -76,11 +78,20 @@
   <img src="./assets/icons/tailwindcss/tailwindcss.svg" width="42" alt="TailwindCSS" />
   <img src="./assets/icons/vue/vue.svg" width="42" alt="Vue" />
 </div>
+
+<h3> Hosting </h3>
+
+<div style='display: flex'>
+  <img src="./assets/icons/mongodb/mongodb.svg" width="42" alt="MongoDB" /> &nbsp;
+</div>
   
 <h3> OS, softwares and tools </h3>
 
 <div style='display: flex'>
   <img src="./assets/icons/apple/apple.svg" width="42" alt="Apple" /> &nbsp;
+  <img src="./assets/icons/git/git.svg" width="42" alt="Git" /> &nbsp;
+  <img src="./assets/icons/heroku/heroku.svg" width="42" alt="Heroku" /> &nbsp;
+  <img src="./assets/icons/jira/jira.svg" width="42" alt="Jira" /> &nbsp;
   <img src="./assets/icons/npm/npm.svg" width="42" alt="NPM" /> &nbsp;
   <img src="./assets/icons/vscode/vscode.svg" width="42" alt="VSCode" /> &nbsp;
   <img src="./assets/icons/windows/windows.svg" width="42" alt="Windows" /> &nbsp;
