@@ -79,7 +79,7 @@
   <img src="./assets/icons/vue/vue.svg" width="42" alt="Vue" />
 </div>
 
-<h3> Hosting </h3>
+<h3> Databases </h3>
 
 <div style='display: flex'>
   <img src="./assets/icons/mongodb/mongodb.svg" width="42" alt="MongoDB" /> &nbsp;
