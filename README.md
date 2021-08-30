@@ -66,8 +66,8 @@
 <div style='display: flex'>
   <img src="./assets/icons/bootstrap/bootstrap.svg" width="42" alt="Bootstrap" />
   <img src="./assets/icons/bulma/bulma.svg" width="42" alt="Bulma" />
-  <img src="./assets/icons/electron/electron.svg" width="42" style='margin: 0px 5px' alt="Electron" />
-  <img src="./assets/icons/express/express.svg" width="42" style='margin: 0px 5px; filter: invert(100%)' alt="Express" />
+  <img src="./assets/icons/electron/electron.svg" width="42" alt="Electron" />
+  <img src="./assets/icons/express/express.svg" width="42" alt="Express" />
   <img src="./assets/icons/flutter/flutter.svg" width="42" alt="Flutter" />
   <img src="./assets/icons/node/node.svg" width="42" alt="NodeJS" />
   <img src="./assets/icons/react/react.svg" width="42" alt="React" />
@@ -80,11 +80,11 @@
 <h3> OS, softwares and tools </h3>
 
 <div style='display: flex'>
-  <img src="./assets/icons/apple/apple.svg" width="42" style='margin-right: 5px; filter: invert(100%);' alt="Apple" />
-  <img src="./assets/icons/npm/npm.svg" width="42" style='margin-right: 5px' alt="NPM" />
-  <img src="./assets/icons/vscode/vscode.svg" width="42" style='margin-right: 5px' alt="VSCode" />
-  <img src="./assets/icons/windows/windows.svg" width="42" style='margin-right: 5px' alt="Windows" />
-  <img src="./assets/icons/yarn/yarn.svg" width="42" style='margin-right: 5px' alt="Yarn" />
+  <img src="./assets/icons/apple/apple.svg" width="42" alt="Apple" />
+  <img src="./assets/icons/npm/npm.svg" width="42" alt="NPM" />
+  <img src="./assets/icons/vscode/vscode.svg" width="42" alt="VSCode" />
+  <img src="./assets/icons/windows/windows.svg" width="42" alt="Windows" />
+  <img src="./assets/icons/yarn/yarn.svg" width="42" alt="Yarn" />
 </div>
 
 <!-- Stats section. -->
