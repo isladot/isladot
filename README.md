@@ -21,7 +21,7 @@
 
 - ⌨️ I'm currently working as a Front-end Developer at Starting Finance.
 - 📚 I'm currently attending IT Highschool Grade 13 (yeah, in Italy we do five years).
-- 🌱 I’m currently learning **Q#**.
+- 🌱 I’m currently learning **Go**.
 - 🏷 Pronouns: he/him.
 - ✨ Fun fact: Drama is the best anime genre.
 
