@@ -2,7 +2,7 @@
 <div align="center">
   <h2> Hya, welcome to isladot's profile! <img src="https://media.tenor.com/images/1963c1bf2abc4950a12284148a81eb61/tenor.gif" height="40px"></h2>
   <a href="https://github.com/isladot">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=front-end+developer.;professional+botmancer.;anime+addict+-.-"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=fullstack+web+developer.;professional+botmancer.;anime+addict+-.-"/>
   </a>
   <br />
 </div>
@@ -19,9 +19,9 @@
 
 > Me, myself and my daily routine.
 
-- ⌨️ I'm currently working as a Front-end Developer at Starting Finance.
-- 📚 I'm currently attending IT Highschool Grade 13 (yeah, in Italy we do five years).
-- 🌱 I’m currently learning **Go**.
+- ⌨️ I'm currently working as a Fullstack Web Developer at IndustrialGarageRoma. 
+- 📚 I'm currently attending a Bachelor's Degree in Applied Computer Science and AI in Rome.
+<!-- - 🌱 I’m currently learning **Go**. -->
 - 🏷 Pronouns: he/him.
 - ✨ Fun fact: Drama is the best anime genre.
 
