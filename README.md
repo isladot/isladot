@@ -21,7 +21,6 @@
 
 - ⌨️ I'm currently working as a Fullstack Web Developer at IndustrialGarageRoma. 
 - 📚 I'm currently attending a Bachelor's Degree in Applied Computer Science and AI in Rome.
-<!-- - 🌱 I’m currently learning **Go**. -->
 - 🏷 Pronouns: he/him.
 - ✨ Fun fact: Drama is the best anime genre.
 
