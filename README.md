@@ -122,7 +122,7 @@
   <summary><b>📈 Contributions</b></summary>
   <br />  
   <div align="center">
-    <img width="95%" src="https://activity-graph.herokuapp.com/graph?username=isladot&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=isladot&bg_color=292d3e&color=a6accd&line=c792ea&point=89ddff&hide_border=true" />
   </div>
   <br />
 </details>
