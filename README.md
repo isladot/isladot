@@ -17,26 +17,19 @@
 <!-- About section. -->
 <h2>🌸 About</h2>
 
-> Me, myself and my daily routine.
-
 - ⌨️ I'm currently working as a Software Developer at BadgeBox. 
 - 📚 I'm currently attending a Bachelor's Degree in Applied Computer Science and AI in Rome.
-- 🏷 Pronouns: he/him.
 - ✨ Fun fact: Drama is the best anime genre.
 
 <!-- Socials section. -->
 <h2>🌐 Socials</h2>
 
-> How to contact me.
-
 - LinkedIn: [click me!](https://www.linkedin.com/in/luca-biagetti/)
 - Telegram: [also me!](https://t.me/isladot)
-- Discord: isla#8212
+- Discord: isladot
 
 <!-- Spotify section. -->
 <h2>🎵 Spotify</h2>
-
-> Music I like to listen to.
 
 <a href="https://open.spotify.com/user/iyp449gpvmgrzw82i8xptf7up">
   <img src="https://spotify-readme-widget.onrender.com/api/spotify/now" />
@@ -44,8 +37,6 @@
 
 <!-- Tech section. -->
 <h2>🔨 Languages and Tools</h2>
-
-> Stuff I like to work with.
 
 <h3> Languages </h3>
 
