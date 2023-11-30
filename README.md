@@ -2,7 +2,7 @@
 <div align="center">
   <h2> Hya, welcome to isladot's profile! <img src="https://media.tenor.com/images/1963c1bf2abc4950a12284148a81eb61/tenor.gif" height="40px"></h2>
   <a href="https://github.com/isladot">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=software+developer.;professional+botmancer.;anime+addict+-.-"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=mobile+developer.;professional+botmancer.;anime+addict+-.-"/>
   </a>
   <br />
 </div>
@@ -17,8 +17,8 @@
 <!-- About section. -->
 <h2>🌸 About</h2>
 
-- ⌨️ I'm currently working as a Software Developer at BadgeBox. 
-- 📚 I'm currently attending a Bachelor's Degree in Applied Computer Science and AI in Rome.
+- ⌨️ I'm currently working as a Tech Lead Mobile Developer at Max Mara Fashion Group. 
+- 📚 I'm currently attending a Bachelor's Degree in Security of Computer Systems and Networks at Università degli Studi di Milano.
 - ✨ Fun fact: Drama is the best anime genre.
 
 <!-- Socials section. -->
