@@ -18,7 +18,7 @@
 <h2>🌸 About</h2>
 
 - ⌨️ I'm currently working as a Tech Lead Mobile Developer at Max Mara Fashion Group. 
-- 📚 I'm currently attending a Bachelor's Degree in Security of Computer Systems and Networks at Università degli Studi di Milano.
+- 📚 I'm currently attending a Bachelor's Degree in Security of Computer Systems and Networks at Unimi.
 - ✨ Fun fact: Drama is the best anime genre.
 
 <!-- Socials section. -->
