@@ -2,7 +2,7 @@
 <div align="center">
   <h2>Welcome to Luca Biagetti's profile!</h2>
   <a href="https://github.com/isladot">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=tech+lead+mobile+developer.;cybersecurity+student"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=tech+lead+mobile+developer.;cybersecurity+student."/>
   </a>
 </div>
 
