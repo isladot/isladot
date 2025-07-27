@@ -2,7 +2,7 @@
 <div align="center">
   <h2>Welcome to Luca Biagetti's profile!</h2>
   <a href="https://github.com/isladot">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=tech+lead+mobile+developer.;cybersecurity+student."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=C792EA&center=true&vCenter=true&lines=sde+ii.;cybersecurity+student."/>
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 <!-- About section. -->
 <h2>🌸 About</h2>
 
-- ⌨️ I'm currently working as a Tech Lead Mobile Developer at Max Mara Fashion Group. 
+- ⌨️ I'm currently working as a Software Developer Engineer II at Amazon.
 - 📚 I'm currently attending a Bachelor's Degree in Security of Computer Systems and Networks at Unimi.
 - ✨ Fun fact: Drama is the best anime genre.
 
